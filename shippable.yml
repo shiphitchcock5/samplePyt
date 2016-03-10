@@ -5,6 +5,7 @@ language: python
 # Version number
 python:
    - 3.3
+   
 env:
  global:
   - secure: ObdUwy0tjqyjzsXYDktSO6VIC4tssF/IP7YjpxzfC77sqx7kOC7AxKlzyR2q6JmbmJAXnk141dHtGqqU/55qBiKL/LuHCpC/HJWRMPn/0EetkMu34NZSKY80rKTT4HWNJdKDIef7tpsj+ERofKACzXmf62YtSU6koiVxyfimRQsg2C/eLk9BLecce+MWA1WOYcYAtR2ImZ54Irvhczh4Zeka57lVyD8unyhMzz+0rtpMkOJzSilWRe07WvNDSoGkSXKH+FHfCa3N+m+mA9Bt0JqGqQomwz7rmLu2PcuqRA0VAfLrsxxRm3BBwZV/SVYhPk4v5ImS+wd1YR2NqNlVxw==
