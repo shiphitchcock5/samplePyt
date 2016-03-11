@@ -5,6 +5,9 @@ language: python
 # Version number
 python:
    - 3.3
+env:
+  global :
+   - M1=one
    
 
 build:
