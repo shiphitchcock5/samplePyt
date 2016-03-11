@@ -5,6 +5,7 @@ language: python
 # Version number
 python:
    - 3.3
+   
 env:
   global:
     - M1=one
@@ -17,4 +18,4 @@ env:
 build:
   ci:
     - python --version
-    #- echo $key1 and $key2 and $key3
+    - echo $M1 and $M2 and $M3
