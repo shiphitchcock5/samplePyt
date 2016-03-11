@@ -5,6 +5,8 @@ language: python
 # Version number
 python:
    - 3.3
+   - 3.4
+   
 env:
   global :
    - M1=one
