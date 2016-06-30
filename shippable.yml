@@ -4,8 +4,7 @@ language: python
 # Version number
 python:
   - 3.4
- 
-  
+
 services:
   - mysql
   - postgres
