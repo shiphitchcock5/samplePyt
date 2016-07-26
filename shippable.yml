@@ -15,4 +15,5 @@ env:
 build:
   ci:
     - python --version
+    - sleep 8m
     #- echo $key1 and $key2 and $key3
